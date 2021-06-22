@@ -1,0 +1,19 @@
+body{
+    padding: 100px;
+}
+
+.category-search{
+    margin-top: 30px;
+    align-items: center;
+    width: 100%;
+    padding: 10px 200px 100px 200px;
+    border-radius: 10px;
+}
+
+#ingredients{
+    display: none;
+}
+
+#message-notFound{
+    display: none;   
+}
